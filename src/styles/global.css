@@ -1,0 +1,12 @@
+:root {
+  --brand: #4caf4f;
+  --silver: #f5f7fa;
+  --shade: #103e13;
+  --gray: #717171;
+  --darkgray: #4d4d4d;
+  --tint: #c8e6c9;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
