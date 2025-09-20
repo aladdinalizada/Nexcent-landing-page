@@ -30,7 +30,7 @@ const Header = () => {
     },
   ];
   return (
-    <header className="sticky py-8 top-0 z-10">
+    <header className="bg-[#F5F7FA] sticky py-8 top-0 z-10 px-6 lg:px-16 xl:px-28">
       <div className="flex justify-between items-center">
         <a href="/">
           <img src="/Logo.png" alt="Nexcent Logo" />

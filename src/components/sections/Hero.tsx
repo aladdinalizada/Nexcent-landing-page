@@ -2,7 +2,7 @@ import HeroImg from "../../assets/images/hero.png";
 
 const Hero = () => {
   return (
-    <section className="flex flex-col md:flex-row justify-center items-center py-12 md:py-24 gap-10 md:gap-28">
+    <section className="bg-[#F5F7FA] flex flex-col md:flex-row justify-center items-center py-12 md:py-24 gap-10 md:gap-28">
       <div className="text-[var(--darkgray)]">
         <h1 className="font-semibold text-6xl">Lessons and insights </h1>
         <p className="text-[var(--brand)] font-semibold text-6xl pb-4">

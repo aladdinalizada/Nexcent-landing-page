@@ -1,13 +1,15 @@
 import Header from "./components/common/Header";
 import Hero from "./components/sections/Hero";
+import OurClients from "./components/sections/OurClients";
 
 function App() {
   return (
     <>
-      <div className="min-h-screen bg-[#F5F7FA] px-6 lg:px-16 xl:px-28">
+      <div className="min-h-screen bg-white ">
         <Header />
         <main>
           <Hero />
+          <OurClients />
         </main>
       </div>
     </>
