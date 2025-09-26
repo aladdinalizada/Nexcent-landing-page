@@ -1,10 +1,10 @@
-import Logo1 from "../../assets/images/clients/Logo1.svg";
-import Logo2 from "../../assets/images/clients/Logo2.svg";
-import Logo3 from "../../assets/images/clients/Logo3.svg";
-import Logo4 from "../../assets/images/clients/Logo4.svg";
-import Logo5 from "../../assets/images/clients/Logo5.svg";
-import Logo6 from "../../assets/images/clients/Logo6.svg";
-import Logo7 from "../../assets/images/clients/Logo7.svg";
+import Logo1 from "../../assets/icons/clients/Logo1.svg";
+import Logo2 from "../../assets/icons/clients/Logo2.svg";
+import Logo3 from "../../assets/icons/clients/Logo3.svg";
+import Logo4 from "../../assets/icons/clients/Logo4.svg";
+import Logo5 from "../../assets/icons/clients/Logo5.svg";
+import Logo6 from "../../assets/icons/clients/Logo6.svg";
+import Logo7 from "../../assets/icons/clients/Logo7.svg";
 
 const OurClients = () => {
   const clients = [
